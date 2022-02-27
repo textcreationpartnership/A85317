@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first and large petition of the Citie of London and other inhabitants thereabouts: for a reformation in church-government, as also for the abolishment of episcopacie: with a remonstrance thereto annexed, of the many pressures and grievances occasioned by the bishops, and the sundry inconveniences incident to episcopacie. The tyrannie and extortion practised in ecclesiasticall courts, together with the unlawfulnesse of the oath ex officio: preferred to the high and honourable court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85317</idno>
+            <idno type="STC">Wing F973</idno>
+            <idno type="STC">Thomason E156_20</idno>
+            <idno type="STC">ESTC R23330</idno>
+            <idno type="EEBO-CITATION">99871977</idno>
+            <idno type="PROQUEST">99871977</idno>
+            <idno type="VID">156880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156880)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first and large petition of the Citie of London and other inhabitants thereabouts: for a reformation in church-government, as also for the abolishment of episcopacie: with a remonstrance thereto annexed, of the many pressures and grievances occasioned by the bishops, and the sundry inconveniences incident to episcopacie. The tyrannie and extortion practised in ecclesiasticall courts, together with the unlawfulnesse of the oath ex officio: preferred to the high and honourable court of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800</term>
+               <term>London (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156880:1"/>
+            <pb facs="tcp:156880:1" rendition="simple:additions"/>
+            <p>THE FIRST AND LARGE PETITION Of the Citie of LONDON and other Inhabitants thereabouts: For a Reformation in Church-government, as alſo for the aboliſhment of Epiſcopacie: WITH A REMONSTRANCE thereto annexed, of the many Preſſures and Grievances occaſioned by the Biſhops, and the ſundry inconveniences incident to EPISCOPACIE.</p>
+            <p>The Tyrannie and Extortion practiſed in Eccle<g ref="char:EOLhyphen"/>ſiaſticall Courts, together with the vnlawfulneſſe of the Oath <hi>EX OFFICIO:</hi> preferred to the high and honourable Court of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:156880:2"/>
+            <pb n="1" facs="tcp:156880:2"/>
+            <head>TO THE RIGHT HONOVRABLE The Commons Houſe of PARLIAMENT.</head>
+            <head type="sub">The humble Petition of many of his Majeſties Subjects in and about the City of <hi>London</hi> and ſeverall Coun<g ref="char:EOLhyphen"/>ties of the Kingdome.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas the government of Archbiſhops, and Lord Biſhops, Deanes, and Archdeacons, &amp;c. with their Courts and miniſtra<g ref="char:EOLhyphen"/>tions in thom hath proved pre<g ref="char:EOLhyphen"/>judiciall and very dangerous both to the <hi>Church</hi> and <hi>Common-wealth,</hi> they themſelves having formerly held, that they have their Iu<g ref="char:EOLhyphen"/>riſdiction or authority of humane Authority, till of theſe later times being further peruſed
+<pb n="2" facs="tcp:156880:3"/>about the unlawfulneſſe that they have clay<g ref="char:EOLhyphen"/>med their calling immediately from the Lord JESVS CHRIST, which is againſt the Lawes of this Kingdome, and Derogatory to his Maje<g ref="char:EOLhyphen"/>ſtie and his State Royall. And whereas the ſaid government is found, by wofull experience, to be a maine cauſe and occaſion of many foule evils, preſſures and grievances of a very high nature unto his Majeſties Subjects, in their owne Conſciences, liberties and eſtates; as in a Schedule of particulars hereunto annexed may in part appeare.</p>
+            <p>We therefore moſt humply pray and be<g ref="char:EOLhyphen"/>ſeech this Honourable Aſſembly, the premiſ<g ref="char:EOLhyphen"/>ſes conſidered, that the ſaid government with all its dependances, rootes and branches may be aboliſhed, and all lawes in their behalfe made voyd, and the government, according to Gods word, may be rightly placed among us, and we your humble Supplyants as in duty we are bound, will daily pray for his Maje<g ref="char:EOLhyphen"/>ſties long and happy raigne over us, and for the proſperous ſucceſſe of this High and Ho<g ref="char:EOLhyphen"/>nourable Court of <hi>Parliament, &amp;c.</hi>
+            </p>
+            <div type="part">
+               <pb n="3" facs="tcp:156880:3"/>
+               <head>A Particular of the manifold Evils, Preſſures, and Grievances, cau<g ref="char:EOLhyphen"/>ſed, practized, and occaſioned by the Prelates and their Dependants.</head>
+               <p n="1">I. FIrſt, the ſubjecting and inclining all Mi<g ref="char:EOLhyphen"/>niſters under them and their Authori<g ref="char:EOLhyphen"/>tie, and ſo by degrees exempting of them from the Temporall power, whence followes:</p>
+               <p n="2">II. The faint-heartedneſſe of Miniſters to preach the truth of GOD, leſt they ſhould diſpleaſe the Prelates, as namely <hi>the Doctrine of Predeſtination, of Free-grace, of Perſeve<g ref="char:EOLhyphen"/>rance, of Originall ſinne remaining after Bap<g ref="char:EOLhyphen"/>tiſme, of the Sabboth, the Doctrine againſt u<g ref="char:EOLhyphen"/>niverſall Grace, Election, for Faith fore-ſeene, Freewill, againſt Antichriſt, non-Reſidents, humane Inventions of GODS worſhip,</hi> all which are generally with-held from the peo<g ref="char:EOLhyphen"/>ples knowledge, becauſe not reliſhing to the Biſhops.</p>
+               <p n="3">
+                  <pb n="4" facs="tcp:156880:4"/>
+III. The incouragement of Miniſters to deſpiſe the temporall Magiſtracie, the Nobles, and Gentry of the Land, to abuſe the Subjects and live contentiouſly with their neighbours, knowing that they being the Biſhops crea<g ref="char:EOLhyphen"/>tures they ſhall be ſupported.</p>
+               <p n="4">IV. The reſtraint of many godly and able men from the Miniſtry, and thruſting out of ma<g ref="char:EOLhyphen"/>ny Congregations their faithfull, diligent and powerfull Miniſters, who lived peaceably with them and did them good, onely becauſe they cannot in Conſcience ſubmit unto and maintaine the Biſhops needleſſe devices; nay ſometimes, for no other cauſe but for their zeale in Preaching, or great Auditories.</p>
+               <p n="5">V. The ſuppreſſing of that godly Deſigne ſet on foot by certaine Sects, and ſugred with many great guifts by ſundry well-affected perſons, for the buying of Impropriations, and placing of able Miniſters in them, main<g ref="char:EOLhyphen"/>taining of Lectures, and founding of Free-Schooles; which the Prelates could not en<g ref="char:EOLhyphen"/>dure, leſt it ſhould darken their glories, and draw the Miniſters from their dependance upon them</p>
+               <p n="6">
+                  <pb n="5" facs="tcp:156880:4"/>
+VI. The great increaſe of Idle, lewd and diſſo<g ref="char:EOLhyphen"/>lute, ignorant and erroneous men in the Mi<g ref="char:EOLhyphen"/>niſtry, which ſwarme like the <hi>Locuſts</hi> of <hi>Egypt</hi> over the whole Kingdome, and will they but weare a Canonicall Coate, a Surpliſſe, a Hood, bow at the name of JESUS and be zea<g ref="char:EOLhyphen"/>lous of Superſtitious Ceremonies, they may live as they liſt, confront whom they pleaſe, preach and vent what errours they will, and neglect preaching at their pleaſures, without controule.</p>
+               <p n="7">VII. The diſcouragement of many from bring<g ref="char:EOLhyphen"/>ing up their Children in learning the many ſchiſmes, errours and ſtrange opinions which are in the Church; great Corruptions, which are in Univerſities; the groſſe, and lamen<g ref="char:EOLhyphen"/>table ignorance almoſt every where among the people; the want of preaching Miniſters in very many places both of <hi>England</hi> and <hi>Wales,</hi> the loathing of the Miniſtry, and the generall defection to all manner of profane<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p n="8">VIII. The ſwarming of laſcivious, Idle, and un<g ref="char:EOLhyphen"/>profitable books and pamphlets, Play-books, and Ballads, as namely <hi>Ovids</hi> fits of Love, the <hi>Parliament</hi> of Women came out at the diſſolving of the laſt <hi>Parliament, Barnes</hi> Poems, <hi>Parkers</hi> Ballads in diſgrace of Reli<g ref="char:EOLhyphen"/>gion
+<pb n="6" facs="tcp:156880:5" rendition="simple:additions"/>to the increaſe of all vice, and withdraw<g ref="char:EOLhyphen"/>ing of people from reading, ſtudying, and hearing the word of God, and other good Bookes.</p>
+               <p n="9">IX. The hindring of godly Bookes to be printed, the blotting out or perverting thoſe which they ſuffer all or moſt of that which ſtrikes either at <hi>Poperie</hi> or <hi>Arminianiſme,</hi> the adding of what or where pleaſeth them and the re<g ref="char:EOLhyphen"/>ſtraints of reprinting Bookes formerly lycen<g ref="char:EOLhyphen"/>ſed without relycenſing.</p>
+               <p n="10">X. The publiſhing and venting of <hi>Popiſh, Ar<g ref="char:EOLhyphen"/>minian,</hi> and other dangerous Bookes and Te<g ref="char:EOLhyphen"/>nets, as namely; that the <hi>Church</hi> of <hi>Rome</hi> is a true <hi>Church,</hi> and in the worſt times never erred in <hi>Fundamentals,</hi> that the Subjects have no propriety in their Eſtates, but that the King may take from them what he pleaſeth, that all is the Kings, and that he is bound by no Law, and many other, from the former whereof hath ſprang.</p>
+               <p n="11">XI. The growth of <hi>Popery,</hi> and increaſe of <hi>Pa<g ref="char:EOLhyphen"/>piſts, Prieſts</hi> and <hi>Jeſuits</hi> in ſundry places, but eſpecially about <hi>London</hi> ſince the <hi>Reformati<g ref="char:EOLhyphen"/>on,</hi> the frequent venting of <hi>Crucifixes</hi> and <hi>Po<g ref="char:EOLhyphen"/>piſh pictures,</hi> both engraven and printed, and the placing of ſuch in Bibles.</p>
+               <p n="12">
+                  <pb n="7" facs="tcp:156880:5"/>
+XII. The multitude of <hi>Monopolies</hi> and <hi>Pattents,</hi> drawing with them innumerable Perjuries, the large increaſe of Cuſtomes and Impoſi<g ref="char:EOLhyphen"/>tions upon <hi>Commodities,</hi> the <hi>Ship-moneyes</hi> and many other great burthens upon the <hi>Common-wealth,</hi> under which all groane.</p>
+               <p n="13">XIII. Moreover, the Offices and Juriſdictions of <hi>Arch-biſhops, Lord-Biſhops, Deanes, Arch-Deacons,</hi> being the ſame way of <hi>Church-Go<g ref="char:EOLhyphen"/>vernment</hi> which is in the <hi>Romiſh Church,</hi> and which was in <hi>England</hi> in the time of <hi>Poperie,</hi> little change thereof being made (except one<g ref="char:EOLhyphen"/>ly the head from whence it was derived) the ſame Arguments ſupporting the Pope, which doe uphold the <hi>Prelates,</hi> and overthrowing the <hi>Prelates,</hi> which doe pull downe the Pope, &amp; other reformed <hi>Churches,</hi> having upon their rejection of the Pope, caſt the Prelates out alſo as Members of the Beaſt: Hence it is, that the Prelates here in <hi>England</hi> by them<g ref="char:EOLhyphen"/>ſelves or their Diſciples, plead and maintaine, that the Pope is not <hi>Antichriſt,</hi> and that the <hi>Church of Rome</hi> is a true <hi>Church,</hi> hath not erred in Fundamentall points, and that Salvation is attaynable in that Religion, and therefore have reſtrayned to pray for
+<pb n="8" facs="tcp:156880:6"/>the Converſion of our Soveraigne Lady the Queene. Hence alſo hath come,</p>
+               <p n="14">XIV. The great Conformity and likeneſſe both continued and encreaſed of our Church to the Church of <hi>Rome,</hi> in veſtures, poſtures, Ceremonies and Adminiſtrations, namely as the Biſhops Rochets, and the Lawne ſleeves, the 4. cornerd Cap, the Cope and Surpliſſe, the Tippit, the Hood, and the Canonicall Coate, the Pulpit clothed, eſpecially now of late with the Jeſuites Badge upon them every way.</p>
+               <p n="15">XV. The ſtanding up at <hi>Gloria Patri,</hi> and at the reading the Goſpell, praying towards the Eaſt, the bowing at the name of JESUS, the bowing to the Altar towards the Eaſt, Croſſe in Baptiſme, the Kneeling at the Commu<g ref="char:EOLhyphen"/>nion.</p>
+               <p n="16">XVI. The turning of the Communion Tables Altar-wiſe, ſetting Jmages, Crucifixes, and Conceits over them, and Tapers and Bookes upon them, and bowing, and adoreing to or before them, the reading of the ſecond Service at the Altar, and forcing people to come up thither to receive, or elſe denying the Sacra<g ref="char:EOLhyphen"/>ment to them, tearming the Altar to bee the
+<pb n="9" facs="tcp:156880:6"/>mercy-ſeate, or the place of God Almighty in the Church, which is a plain device to uſher in the Maſſe.</p>
+               <p n="17">XVII. The Chriſtening and Conſecrating of Churches and Chappells, the conſecrating Fonts, Pulpits, Tables, Chalices, Church-yards, and many other things, and putting holineſſe in them; yea, reconſecrating upon pretended pollution, as though every thing were uncleane without their Conſecrating, and for want of this ſundry Churches have beene interdicted and kept from uſe as pol<g ref="char:EOLhyphen"/>luted.</p>
+               <p n="18">XVIII. The Liturgy for the moſt parts framed out of the Romiſh <hi>Breviary Ritualium</hi> Maſſe<g ref="char:EOLhyphen"/>booke, alſo the booke of Ordination, for Archbiſhops and Miniſters framed out of the Roman Pontificall.</p>
+               <p n="19">IX. The multitude of Canons formerly made, wherein, among other things, Excom<g ref="char:EOLhyphen"/>munication, <hi>ipſo facto</hi> is denounced for ſpea<g ref="char:EOLhyphen"/>king of a word againſt the deviſes above ſaid or ſubſcription thereunto, though no Law enjoyned a reſtraint from the Miniſtry with<g ref="char:EOLhyphen"/>out ſuch ſubſcription and Appeale is denyed to any that ſhould refuſe ſubſcription or un<g ref="char:EOLhyphen"/>lawfull conformity, though hee be never ſo
+<pb n="10" facs="tcp:156880:7"/>much wronged by the inferious Judge, alſo the Canons made in the late ſacred Synod, as they call it: wherein are many ſtrange and dangerous Devices to undermine the Goſpel, and the Subjects liberties, to propogate Pope<g ref="char:EOLhyphen"/>ry to ſpoyle Gods people, inſnare Miniſters and other <hi>Students,</hi> and ſo to draw all into an abſolute ſubjection and thraldome to them and their government, ſpoyling both the King and the Parliament of their power.</p>
+               <p n="20">XX. The countenancing plurality of Benefices, prohibiting of Marriages without their ly<g ref="char:EOLhyphen"/>cenſe at certaine times, almoſt halfe the yeare and lycenſing of Marriages without Banes aſ<g ref="char:EOLhyphen"/>king.</p>
+               <p n="21">XXI. Proph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nation of the Lords day pleading for it, and enjoyning Miniſters to read a <hi>De<g ref="char:EOLhyphen"/>claration,</hi> ſet forth, as 'tis thought, by their procurement for tolerating of ſports upon that day, ſuſpending and depriving many god<g ref="char:EOLhyphen"/>ly Miniſters; for not reading the ſame onely out of Conſcience, it was againſt the Law of God ſo to doe, and no Law of the Land to en<g ref="char:EOLhyphen"/>joyne it.</p>
+               <p n="22">XXII. The preſſing of the ſtrict obſervati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ints D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes, whereby great ſummes of Moneyes are drawne out of Mens
+<pb n="11" facs="tcp:156880:7"/>purſes for working on them, a very high bur<g ref="char:EOLhyphen"/>then on moſt people, who getting their living by their dayly imployments, muſt either omit them and be idle, or part with their money, whereby many poore families are undone, or brought behind hand, yea many <hi>Church-War<g ref="char:EOLhyphen"/>dens</hi> are ſued, or threatned to be ſued by their troubleſome Miniſters, as perjured perſons for not preſenting their Pariſhioners, who fayled in obſerving <hi>Holy-dayes.</hi>
+               </p>
+               <p n="23">XXIII. The great increaſe and frequencie of whore<g ref="char:EOLhyphen"/>domes and Adulteries, occaſioned by the <hi>P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>lates</hi> corrupt adminiſtration of Juſtice, in ſuch Caſes, who taking upon them the puniſhment of it, doe turn all into moneyes for the filling of their purſes, and leſt their Officers ſhould defraud them of their gaine, they have in their late Canon, in ſtead of remedying their vices, decreed that the <hi>Commutation</hi> of Pennance, ſhall not be without the Biſhops privity.</p>
+               <p n="24">XXIV. The generall abuſe of that great ordinance of Excommunication, which GOD hath left in his Church to bee uſed as the laſt and greateſt puniſhment the Church can inflict upon obſtinate and great Offendors, and that the Prelates and their Officers, who of right, have nothing to doe with
+<pb n="12" facs="tcp:156880:8"/>it doe daily excommunicate men ei<g ref="char:EOLhyphen"/>ther for doing that which is lawfull, or for vaine idle and triviall matters, as working or opening a ſhop on a Holiday, for not appea<g ref="char:EOLhyphen"/>ring at every beck upon their ſummons, not paying a fee or the like, yea they have made it, as they doe all other things, a hooke or in<g ref="char:EOLhyphen"/>ſtrument wherewith to empty mens purſes, and to advance their owne greatneſſe, and ſo that ſacred ordinance of God, by their perver<g ref="char:EOLhyphen"/>ting of it, becomes contemptible to all men, and ſeldome or never uſed againſt notorious offendors, who, for the moſt part, are their fa<g ref="char:EOLhyphen"/>vorites.</p>
+               <p n="25">XXV. Yea further the pride and ambition of the <hi>Prelates</hi> being boundleſſe, unwilling to be ſub<g ref="char:EOLhyphen"/>ject to either man or Lawes, they claime their Office and Juriſdiction to be <hi>Jure divino,</hi> ex<g ref="char:EOLhyphen"/>erciſe Eccleſiaſticall authority in their owne names and Rights, and under their owne Seales, and take upon them Temporall dig<g ref="char:EOLhyphen"/>nities, places and offices in the Common-wealth, that they may ſway both ſwords.</p>
+               <p n="26">XXVI. Whence followes the taking Commiſſi<g ref="char:EOLhyphen"/>ons in their owne Courts &amp; Conſiſtories, and where elſe they ſit in matters determinable of Right at Common Law, the putting of Mi<g ref="char:EOLhyphen"/>niſters
+<pb n="13" facs="tcp:156880:8"/>upon Pariſhes, without the Patrons and peoples conſent.</p>
+               <p n="27">XXVII. The impoſing of Oathes of various and tri<g ref="char:EOLhyphen"/>viall Articles yearly upon Church-wardens, and Side-men, which without perjury, unleſſe they fall at jarres continually with their Mi<g ref="char:EOLhyphen"/>niſters and Neighbours, and wholly neglect their owne calling.</p>
+               <p n="28">XXVIII. The exerciſing of the Oath <hi>Ex Officio</hi> and other proceedings by way of <hi>Inquiſition</hi> rea<g ref="char:EOLhyphen"/>ching even to mens thoughts, the apprehen<g ref="char:EOLhyphen"/>ding, and detaining of men by <hi>Purſivants,</hi> the frequent ſuſpending and depriving of Mini<g ref="char:EOLhyphen"/>ſters, fining &amp; impriſoning of all ſorts of peo<g ref="char:EOLhyphen"/>ple, breaking up of mens houſes and ſtudyes, taking away mens Bookes, Letters, and other writings, ſeizing upon their Eſtates, removing them from their callings, ſeparating betweene them and their wives againſt both their wills, the rejecting of prohibitions with threatnings and the doing of many other out-rages, to the utter infringing the Lawes of the Realme, and the Subjects liberties, and arraigning of them and their families, and of latter time, the Jud<g ref="char:EOLhyphen"/>ges of the Land are ſo awed with the power and greatneſſe of the Prelates, and other wayes promoted, that neither prohibition, <hi>Habeas Corpus</hi> or any other lawfull remedy can be had or take place for the diſtreſſed Subjects in
+<pb n="14" facs="tcp:156880:9"/>moſt caſes, onely <hi>Papiſts, Jeſuits, Prieſts,</hi> and ſuch others as propagate Popery or <hi>Armini<g ref="char:EOLhyphen"/>aniſme</hi> are countenanced, ſpared, &amp; have much liberty, <hi>and from hence followed among others theſe dangerous Conſequences.</hi>
+               </p>
+               <p n="1">1. FIrſt the generall hope and expectation of the <hi>Romiſh</hi> part, <hi>that their ſuperſtitious Re<g ref="char:EOLhyphen"/>ligion will ere long be fully planted in this King<g ref="char:EOLhyphen"/>dome againe, and ſo they are encouraged to perſiſt therin, and to practice the ſame openly in divers places, to the high diſhonour of God, and contrary to the Lawes of the Realme.</hi>
+               </p>
+               <p n="2">II. Secondly, the diſcouragement and deſtructi<g ref="char:EOLhyphen"/>on of all good Subjects, of whom all Multi<g ref="char:EOLhyphen"/>tudes both <hi>Clothiers, Marchants,</hi> and others being deprived of their Miniſters, and over<g ref="char:EOLhyphen"/>burthen'd with theſe preſſures, have departed the Kingdome to <hi>Holland,</hi> and other parts, and have drawne with them a great part of manu<g ref="char:EOLhyphen"/>facture of <hi>Cloth</hi> and <hi>Trading</hi> out of the Land into other places, where they reſide, whereby wooll, the great ſtaple of the Kingdome, is become of ſmall value and vends not, Trading is decayed, many poore people want worke, Sea-men loſe imployment, and the whole Land much impoveriſhed, to the great diſho<g ref="char:EOLhyphen"/>nour of this Kingdome, and blemiſhment to the government thereof.</p>
+               <p n="3">
+                  <pb n="15" facs="tcp:156880:9"/>
+III. The preſent warres and Commotions hap<g ref="char:EOLhyphen"/>ned betweene his Majeſty and his Subjects of <hi>Scotland,</hi> wherein his Majeſty and all his King<g ref="char:EOLhyphen"/>dome are indangered, and ſuffer greatly, and are like to become a prey to the common E<g ref="char:EOLhyphen"/>nemy, in caſe the wars goe on, which wee ex<g ref="char:EOLhyphen"/>ceedingly feare, will not onely goe on, but alſo increaſe to an utter Ruine of all, unleſſe the Prelates with their dependancies be removed out of <hi>England,</hi> and alſo they and their practi<g ref="char:EOLhyphen"/>ſes, who, as wee, under your Honours favour, doe verily beleeve and conceive have occaſio<g ref="char:EOLhyphen"/>ned the Quarrell.</p>
+               <p>
+                  <hi>All which we humbly referre to the conſideration of this Honourable Aſſembly, deſiring the Lord of Heaven to direct you in the right way to redreſse all theſe evills.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
